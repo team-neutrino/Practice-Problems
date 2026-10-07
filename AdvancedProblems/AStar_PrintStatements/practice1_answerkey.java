@@ -11,7 +11,7 @@ public class practice1_answerkey {
          * The Scanner class takes user input and is explained at
          * https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html
          * 
-         * Take three numbers from the user, find the least value, and print it out
+         * Take three numbers from the user, 1find the least value, and print it out
          * Make sure to explain in a print line what your program does to the user!
          */
 
