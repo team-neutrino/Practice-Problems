@@ -37,7 +37,7 @@ public class practice2_answerkey {
 
             array.add(num);
 
-            System.out.println(answer + " Your numbers are " + array.toString());
+            System.out.println(answer + ", your numbers are " + array.toString());
         }
     }
 }
