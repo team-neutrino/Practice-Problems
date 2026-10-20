@@ -2,9 +2,9 @@ package BasicProblems.C_IfStatement;
 
 public class practice1 {
     public static void main(String[] args) {
-        // Make a double variable
+        // Create a boolean variable and set it to something
 
-        // Make 3 if statements that compare that variable to a value and print out
-        // something if that comparison is true (use >, <, and ==)
+        // Create an if else statement that checks the value of the variable and prints
+        // out something accordingly.
     }
 }
