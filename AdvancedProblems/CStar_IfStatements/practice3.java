@@ -18,6 +18,7 @@ public class practice3 {
          * 
          * Also, you are not allowed to modify lines of code that have '// *' appended
          * to them
+         * or add code outside of the while loop.
          */
 
         List<Integer> numberList = new ArrayList<>(); // *
