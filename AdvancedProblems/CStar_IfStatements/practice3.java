@@ -9,7 +9,8 @@ public class practice3 {
         /*
          * Every second, this code will add a random number between one and ten to a
          * list of numbers
-         * If the sum of all of the numbers is still divisible by three, keep the number
+         * If the sum of all of the numbers is still divisible by three or by seven,
+         * keep the number
          * Else, remove it from the list
          * 
          * Then, print the last number added to or discarded from the list,

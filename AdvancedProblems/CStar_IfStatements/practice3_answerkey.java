@@ -33,7 +33,7 @@ public class practice3_answerkey {
 
             Iterator<Integer> iterator = numberList.iterator();
 
-            while (iterator.hasNext()) {
+            while (iterator.hasNext()) { // bonus points are awarded if this is done more efficiently
                 sum += iterator.next();
             }
 
